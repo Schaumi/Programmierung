@@ -4,7 +4,7 @@ int main(int argc, char **argv) {
 
   
    int limit = 5;
-   int x = 10;
+   int x = 42;
 
    if (x  > limit) {
       printf("%d ist groesser als %d\n", x, limit);
